@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ITVince
 - 👀 I’m interested in coding in: PowerShell and C#. 
-- 🌱 I’m currently learning to be an System Engineer (Specialized on SharePoint).
+- 🌱 I’m currently Junior Operations Professional (Specialized on SharePoint).
 - 💞️ I’m looking to collaborate on small scripts based on PowerShell, C# or Java.
 - 📫 How to reach me: itvince.github@outlook.com .
 
